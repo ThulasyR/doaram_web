@@ -1,0 +1,17 @@
+cause categories;
+  Advocacy
+  Animals
+  Children
+  Community Mobilization
+  Cultural Heritage
+  Differently Abled
+  Disaster Relief Works
+  Education
+  Elderly
+  Employment
+  Environment	 	 
+ 	Healthcare	 	 
+ 	Others	 	 
+ 	Rural Development	 	 
+ 	Sustainable Livelihood	 	 
+ 	Women Empowerment
